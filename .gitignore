@@ -9,3 +9,5 @@ manga/samples/*
 !manga/samples/.gitkeep
 data/Manga/train/Anime/*
 !data/Manga/train/Anime/1.png
+data/Manga/train/kaokore/*
+!data/Manga/train/kaokore/00000000.jpg

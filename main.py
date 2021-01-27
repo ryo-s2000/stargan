@@ -58,8 +58,8 @@ if __name__ == '__main__':
     # model_save_step = 10000
     # batch_size = 16
 
-    training_and_test_size = 3000
-    model_save_step = 3000
+    training_and_test_size = 100000
+    model_save_step = 10000
     batch_size = 6
 
     # Model configuration.
